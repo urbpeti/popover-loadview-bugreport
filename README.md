@@ -6,6 +6,13 @@ In that case when you have a navigation controller in a popup which contains a v
 
 Demonstration:
 
+With loadView:
+
+![demo with loadView](PopoverBug1.gif)
+
+Without loadView:
+
+![demo without loadView](PopoverBug2.gif)
 
 ## Steps to reproduce
 
