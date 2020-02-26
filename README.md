@@ -23,3 +23,5 @@ Without loadView:
 1. Textfield will be hidden because the view does not resize. Textfield constrained to the middle of the view so it should be in the middle of the popover after the popover has resized.
 
 ## Bug report
+
+Reported to Apple as FB7601560.
